@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <rect width="64" height="64" rx="16" fill="#171717"/>
+  <circle cx="48" cy="18" r="4.5" fill="#10B981" />
+  <!-- Stylized S shape -->
+  <path d="M30 22 C30 18 24 18 20 18 C16 18 14 20 14 24 C14 30 30 28 30 36 C30 42 25 44 20 44 C14 44 13 40 13 38" 
+        stroke="#FFFFFF" stroke-width="4.5" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+  <!-- Stylized IQ badge -->
+  <path d="M37 28 L37 44" stroke="#38BDF8" stroke-width="4.5" stroke-linecap="round"/>
+  <circle cx="37" cy="21" r="2.5" fill="#38BDF8"/>
+  <path d="M47 30 C44 30 42 33 42 36.5 C42 40 44 43 47 43 C50 43 52 40 52 36.5 C52 33 50 30 47 30 Z" 
+        stroke="#38BDF8" stroke-width="4" stroke-linecap="round" fill="none"/>
+  <path d="M50.5 40.5 L54 44" stroke="#38BDF8" stroke-width="4" stroke-linecap="round"/>
+</svg>

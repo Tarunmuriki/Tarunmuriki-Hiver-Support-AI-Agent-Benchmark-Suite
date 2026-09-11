@@ -1,0 +1,6 @@
+{
+  "name": "Hiver Support AI Agent & Benchmark Suite",
+  "description": "SupportIQ: Production-grade evaluation-first AI customer support agent for AppleSupport on Twitter featuring intent taxonomy, historical resolution RAG, multi-factor escalation gate, 200 golden evaluation set, and LLM-as-a-judge harness.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
